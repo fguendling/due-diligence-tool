@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-12T19:40:58.953Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="SYX8rUTXFLvO3WO8s219" version="12.2.4" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-12T19:43:45.296Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="hlLoaA6Rm1btrijti65s" version="12.2.4" type="github" pages="1">
   <diagram name="Page-1" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
     <mxGraphModel dx="932" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -88,7 +88,7 @@
             <mxPoint x="550" y="930" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tbm3mgn3CqdpKke_emqs-1" value="Kann zugeordnet sein zu N" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" parent="jVlvGWDDENxsNVDKOX9u-31" vertex="1" connectable="0">
+        <mxCell id="tbm3mgn3CqdpKke_emqs-1" value="Kann zugeordnet sein (1..N)" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" parent="jVlvGWDDENxsNVDKOX9u-31" vertex="1" connectable="0">
           <mxGeometry x="-0.6504" y="-3" relative="1" as="geometry">
             <mxPoint x="50.5" y="12.5" as="offset"/>
           </mxGeometry>
@@ -104,7 +104,7 @@
             <mxPoint x="860" y="660" as="targetPoint"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="tbm3mgn3CqdpKke_emqs-8" value="kann zugeordnet sein zu N" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" parent="tbm3mgn3CqdpKke_emqs-7" vertex="1" connectable="0">
+        <mxCell id="tbm3mgn3CqdpKke_emqs-8" value="ist zugeordnet (1..N)" style="text;html=1;resizable=0;points=[];align=center;verticalAlign=middle;labelBackgroundColor=#ffffff;" parent="tbm3mgn3CqdpKke_emqs-7" vertex="1" connectable="0">
           <mxGeometry x="-0.6587" relative="1" as="geometry">
             <mxPoint x="49" y="10" as="offset"/>
           </mxGeometry>
