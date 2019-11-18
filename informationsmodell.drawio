@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-18T16:21:49.283Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="iKL9ozx6x53SgenhUAIj" version="12.2.6" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-18T17:21:21.082Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="sbZZ4DK6I0iM2CLMZzwd" version="12.2.6" type="github" pages="1">
   <diagram name="Page-1" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
     <mxGraphModel dx="1243" dy="812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -215,10 +215,10 @@
         <mxCell id="mS2glyXy2kB5kTSKIdPd-10" value="Evidenz-zuordnung" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="905" y="600" width="90" height="90" as="geometry"/>
         </mxCell>
-        <mxCell id="dpxNeViVGeD-j7b1jcPo-1" value="Kunde" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dpxNeViVGeD-j7b1jcPo-1" value="Kunde*" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="980" width="120" height="60" as="geometry"/>
         </mxCell>
-        <mxCell id="dpxNeViVGeD-j7b1jcPo-4" value="Kundenauftrag" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="dpxNeViVGeD-j7b1jcPo-4" value="Kundenauftrag*" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="730" width="120" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="dpxNeViVGeD-j7b1jcPo-5" value="" style="edgeStyle=entityRelationEdgeStyle;fontSize=12;html=1;endArrow=ERoneToMany;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dpxNeViVGeD-j7b1jcPo-4" target="lpoHIjDjbp7n_Nv5GESF-1">
@@ -255,6 +255,12 @@
         </mxCell>
         <mxCell id="dpxNeViVGeD-j7b1jcPo-11" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=10;" vertex="1" parent="1">
           <mxGeometry x="15" y="280" width="35" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="dpxNeViVGeD-j7b1jcPo-12" value="Evtl. Kunde hier" style="strokeWidth=2;rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="560" width="100" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="dpxNeViVGeD-j7b1jcPo-13" value="Capability Beziehung noch mal hinterfragen" style="strokeWidth=2;rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="960" width="100" height="100" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
