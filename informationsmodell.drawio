@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-19T17:10:00.087Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="7bN74-bmyvGD2KdBKMCq" version="12.2.7" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-19T17:23:08.887Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="1lQ5h0RZJLZdHlX_fWhi" version="12.2.7" type="github" pages="1">
   <diagram name="Page-1" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
     <mxGraphModel dx="932" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -264,6 +264,9 @@
         </mxCell>
         <mxCell id="HfnrT11R_Q_UFA63fJiB-1" value="Handlungsfeld:&lt;br&gt;&lt;br&gt;„&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;segoe ui&amp;#34; , &amp;#34;segoe ui web&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;verdana&amp;#34; , sans-serif ; text-align: left ; white-space: pre-wrap ; background-color: rgb(255 , 255 , 255)&quot;&gt;Klumpungen von Kernbefunden bzw. Maßnahmenvorschlägen, die eine besonders hohe Relevanz bzw. Reichweite haben oder besonders häufig als problematisch genannt werden.&lt;/span&gt;“" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="115" y="360" width="155" height="180" as="geometry"/>
+        </mxCell>
+        <mxCell id="HfnrT11R_Q_UFA63fJiB-3" value="N:M und&lt;br&gt;&amp;nbsp;nicht 1:N" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="400" y="600" width="60" height="90" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
