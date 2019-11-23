@@ -1,6 +1,6 @@
-<mxfile host="www.draw.io" modified="2019-11-23T12:19:18.833Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="AQjtYmxpwFaS3ZNDCuZh" version="12.2.9" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-11-23T12:22:21.153Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="khg25e2GurNDfzGRZHUH" version="12.2.9" type="github" pages="1">
   <diagram name="Page-1" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
-    <mxGraphModel dx="932" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1243" dy="812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;"/>
         <mxCell id="1" style=";html=1;" parent="0"/>
@@ -368,14 +368,11 @@
             <mxPoint as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ao1xH_KatcM2TAFlreha-38" value="" style="fontSize=12;html=1;endArrow=ERoneToMany;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="dpxNeViVGeD-j7b1jcPo-4" target="oxu1X0Uhrvyfg57hmDgI-8" edge="1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="1250" y="700" as="sourcePoint"/>
-            <mxPoint x="1550" y="870" as="targetPoint"/>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="7nbViWduPcnCS7wEnalQ-2" value="&lt;b&gt;&lt;i&gt;optional&lt;/i&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;gradientColor=none;opacity=70;align=center;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="40" y="400" width="190" height="290" as="geometry"/>
+        </mxCell>
+        <mxCell id="EB7ZU6iB8rgXst6pkzKG-5" value="Kunden-Geschäftsfähigkeits-Mapping" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="560" width="90" height="90" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
