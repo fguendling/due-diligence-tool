@@ -1,0 +1,16 @@
+-- für jede neue Tabelle
+-- Die drei Befehle einzeln ausführen
+
+CREATE SEQUENCE "GRUNDDIMENSION_SEQ"  MINVALUE 1 MAXVALUE 9999999999999999999999999999 INCREMENT BY 1 START WITH 1 CACHE 20 NOORDER  NOCYCLE  NOKEEP  NOSCALE  GLOBAL;
+
+CREATE OR REPLACE EDITIONABLE TRIGGER  "GRUNDDIMENSION_trg" 
+  before insert on "GRUNDDIMENSION"               
+  for each row  
+begin   
+  if :NEW."GRUNDDIMENSION_ID" is null then 
+    select "GRUNDDIMENSION_SEQ".nextval into :NEW."GRUNDDIMENSION_ID" from sys.dual; 
+  end if; 
+end; 
+
+ALTER TRIGGER  "GRUNDDIMENSION_trg" ENABLE;
+
