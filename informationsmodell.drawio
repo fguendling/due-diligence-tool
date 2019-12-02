@@ -1,9 +1,12 @@
-<mxfile host="www.draw.io" modified="2019-12-02T14:16:20.402Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="_6YEUv8xUH-2cGdTK3ZI" version="12.3.4" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-02T14:20:06.492Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="bOB4UlGQ0BQByECqXOQL" version="12.3.4" type="github" pages="1">
   <diagram name="Page-1" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
     <mxGraphModel dx="932" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;"/>
         <mxCell id="1" style=";html=1;" parent="0"/>
+        <mxCell id="7nbViWduPcnCS7wEnalQ-2" value="&lt;b&gt;&lt;i&gt;bisher optional - sollte idealerweise berücksichtigt werden und ist dann direkt den Einzelbefunden zugeordnet&lt;/i&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;gradientColor=none;opacity=70;align=center;verticalAlign=top;" parent="1" vertex="1">
+          <mxGeometry x="110" y="360" width="390" height="140" as="geometry"/>
+        </mxCell>
         <mxCell id="lpoHIjDjbp7n_Nv5GESF-1" value="&lt;span style=&quot;white-space: normal&quot;&gt;Einzelbefund&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;white-space: normal&quot;&gt;&lt;span style=&quot;white-space: normal&quot;&gt;(Symptom)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="550" y="720" width="120" height="80" as="geometry"/>
         </mxCell>
@@ -291,7 +294,7 @@
             <mxPoint x="13.5" y="-8" as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ao1xH_KatcM2TAFlreha-20" value="Handlungsfeld" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="ao1xH_KatcM2TAFlreha-20" value="Handlungsfeld/&lt;br&gt;Handlungsbedarf" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="130" y="400" width="150" height="60" as="geometry"/>
         </mxCell>
         <mxCell id="ao1xH_KatcM2TAFlreha-21" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;fontSize=13;" parent="1" source="ao1xH_KatcM2TAFlreha-20" target="ao1xH_KatcM2TAFlreha-20" edge="1">
@@ -351,9 +354,6 @@
           <mxGeometry x="0.2274" y="-4" relative="1" as="geometry">
             <mxPoint as="offset"/>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="7nbViWduPcnCS7wEnalQ-2" value="&lt;b&gt;&lt;i&gt;bisher optional - sollte idealerweise berücksichtigt werden und ist dann direkt den Einzelbefunden zugeordnet&lt;/i&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;gradientColor=none;opacity=70;align=center;verticalAlign=top;" parent="1" vertex="1">
-          <mxGeometry x="110" y="360" width="390" height="140" as="geometry"/>
         </mxCell>
         <mxCell id="EB7ZU6iB8rgXst6pkzKG-5" value="Kunden-Geschäftsfertigkeits-zuordnung" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="1160" y="550" width="90" height="90" as="geometry"/>
