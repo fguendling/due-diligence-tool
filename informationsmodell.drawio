@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2019-11-27T13:22:49.612Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="qxtKb4TA6zG948tevW9x" version="12.3.2" type="github" pages="1">
+<mxfile host="www.draw.io" modified="2019-12-02T14:16:20.402Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="_6YEUv8xUH-2cGdTK3ZI" version="12.3.4" type="github" pages="1">
   <diagram name="Page-1" id="929967ad-93f9-6ef4-fab6-5d389245f69c">
     <mxGraphModel dx="932" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -352,7 +352,7 @@
             <mxPoint as="offset"/>
           </mxGeometry>
         </mxCell>
-        <mxCell id="7nbViWduPcnCS7wEnalQ-2" value="&lt;b&gt;&lt;i&gt;optional&lt;/i&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;gradientColor=none;opacity=70;align=center;verticalAlign=top;" parent="1" vertex="1">
+        <mxCell id="7nbViWduPcnCS7wEnalQ-2" value="&lt;b&gt;&lt;i&gt;bisher optional - sollte idealerweise berücksichtigt werden und ist dann direkt den Einzelbefunden zugeordnet&lt;/i&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;gradientColor=none;opacity=70;align=center;verticalAlign=top;" parent="1" vertex="1">
           <mxGeometry x="110" y="360" width="390" height="140" as="geometry"/>
         </mxCell>
         <mxCell id="EB7ZU6iB8rgXst6pkzKG-5" value="Kunden-Geschäftsfertigkeits-zuordnung" style="rhombus;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
